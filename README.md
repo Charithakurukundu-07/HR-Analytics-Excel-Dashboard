@@ -39,6 +39,20 @@ https://1drv.ms/x/c/5db727326fef566b/IQCHQbQOHUaGT5rnlwAduCnzAV_-Js91FNGJbfgyQEO
 ## Dashboard Image
 ![screenshot](https://github.com/Charithakurukundu-07/HR-Analytics-Excel-Dashboard/blob/main/Excel%20Dashboard.png)
 
+## Project Insights
+
+- The dashboard provides a comprehensive overview of key HR metrics, including employee count, attrition, and workforce demographics.
+- Interactive slicers allow users to analyze data by Department, Gender, and Education Field for better decision-making.
+- KPI cards offer a quick summary of Total Employees, Active Employees, Attrition Count, Attrition Rate, and Average Age.
+- Visualizations help identify workforce trends and support HR analysis through clear and interactive reporting.
+- The dashboard is designed to simplify HR data analysis and improve the understanding of employee-related metrics.
+
+---
+
+## Conclusion
+
+This HR Analytics Dashboard demonstrates the effective use of Microsoft Excel for analyzing and visualizing HR data. By leveraging Pivot Tables, Pivot Charts, KPI Cards, and Slicers, the dashboard transforms raw data into meaningful insights through an interactive and user-friendly interface. This project showcases practical skills in data analysis, dashboard design, and business reporting using Microsoft Excel.
+
 
 
 
