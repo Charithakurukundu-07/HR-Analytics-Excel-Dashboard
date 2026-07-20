@@ -6,12 +6,16 @@ The dashboard provides HR professionals with meaningful insights through dynamic
 ## Business Problem
 Organizations often struggle to identify patterns behind employee attrition.
 This dashboard answers questions such as:
-
 Which department has the highest attrition?
+
 Which job role loses the most employees?
+
 Which age group experiences the highest turnover?
+
 Does education influence attrition?
+
 What is the overall attrition rate?
+
 How many active employees remain?
 
 ## Key Performance Indicators (KPIs)
