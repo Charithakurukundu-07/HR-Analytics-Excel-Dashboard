@@ -37,6 +37,9 @@ https://1drv.ms/x/c/5db727326fef566b/IQCHQbQOHUaGT5rnlwAduCnzAV_-Js91FNGJbfgyQEO
 - Analyzed HR metrics and generated business insights.
 
 ## Dashboard Image
+![screenshot](https://github.com/Charithakurukundu-07/HR-Analytics-Excel-Dashboard/blob/main/Excel%20Dashboard.png)
+
+
 
 
 
